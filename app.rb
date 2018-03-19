@@ -12,5 +12,6 @@ class App < Sinatra::Base
   
   get '/favorite-song'
     "My favorite song is Evil by James Vincent McMorrow."
+  end
   
 end
